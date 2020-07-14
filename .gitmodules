@@ -1,0 +1,27 @@
+[submodule "CarND-Behavioral-Cloning-P3"]
+	path = CarND-Behavioral-Cloning-P3
+	url = git@github.com:JeffreyYun/CarND-Behavioral-Cloning-P3.git
+[submodule "CarND-Capstone"]
+	path = CarND-Capstone
+	url = https://github.com/max-kazak/CarND-Capstone
+[submodule "CarND-Traffic-Sign-Classifier-Project"]
+	path = CarND-Traffic-Sign-Classifier-Project
+	url = https://github.com/JeffreyYun/CarND-Traffic-Sign-Classifier-Project
+[submodule "CarND-PID-Control-Project"]
+	path = CarND-PID-Control-Project
+	url = https://github.com/JeffreyYun/CarND-PID-Control-Project
+[submodule "CarND-Advanced-Lane-Lines"]
+	path = CarND-Advanced-Lane-Lines
+	url = https://github.com/JeffreyYun/CarND-Advanced-Lane-Lines
+[submodule "CarND-Path-Planning-Project"]
+	path = CarND-Path-Planning-Project
+	url = https://github.com/JeffreyYun/CarND-Path-Planning-Project
+[submodule "CarND-Extended-Kalman-Filter-Project"]
+	path = CarND-Extended-Kalman-Filter-Project
+	url = https://github.com/JeffreyYun/CarND-Extended-Kalman-Filter-Project
+[submodule "CarND-LaneLines-P1"]
+	path = CarND-LaneLines-P1
+	url = https://github.com/JeffreyYun/CarND-LaneLines-P1
+[submodule "CarND-Kidnapped-Vehicle-Project"]
+	path = CarND-Kidnapped-Vehicle-Project
+	url = https://github.com/JeffreyYun/CarND-Kidnapped-Vehicle-Project
