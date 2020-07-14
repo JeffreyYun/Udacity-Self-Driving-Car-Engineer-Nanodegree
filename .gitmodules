@@ -1,6 +1,6 @@
 [submodule "CarND-Behavioral-Cloning-P3"]
 	path = CarND-Behavioral-Cloning-P3
-	url = git@github.com:JeffreyYun/CarND-Behavioral-Cloning-P3.git
+	url = https://github.com/JeffreyYun/CarND-Behavioral-Cloning-P3
 [submodule "CarND-Capstone"]
 	path = CarND-Capstone
 	url = https://github.com/max-kazak/CarND-Capstone
